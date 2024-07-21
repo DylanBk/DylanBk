@@ -3,6 +3,18 @@
   My name's Dylan and I'm a college student. I'm from the UK and aim to become a Full-Stack Developer.
 </p>
 
+## ☁️ Future Goals:
+<div>
+  <ul>
+    <li>Become confident in React</li>
+    <li>Become confident in Express.js</li>
+    <li>Become confident in MongoDB</li>
+    <li>Become confident in Pandas</li>
+  </ul>
+  <p>After College: <br>&nbsp;&nbsp;&nbsp;I am unsure of what I will do after college, I am torn between attending university or going into an apprenticeship.</p>
+</div>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-bullock-726534293) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dylanbullocksoftwaredev)
