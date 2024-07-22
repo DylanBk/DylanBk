@@ -22,6 +22,7 @@
 # 💻 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Flask-blue?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)
