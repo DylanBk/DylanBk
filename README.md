@@ -6,7 +6,7 @@
 ## ☁️ Future Goals:
 <div>
   <ul>
-    <li>Become confident in SemanticUI</li>
+    <li>Become confident in Semantic UI</li>
     <li>Become confident in React</li>
     <li>Become confident in Express.js</li>
     <li>Become confident in Pandas</li>
