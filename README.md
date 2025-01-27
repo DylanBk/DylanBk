@@ -11,7 +11,7 @@
     <li>Become confident in Express.js</li>
     <li>Become confident in Pandas</li>
   </ul>
-  <p>After College: <br>&nbsp;&nbsp;&nbsp;I'm not really sure of what I would like to do after college. University would be good but is expensive and I would get more experience in an apprenticeship or junior developer job,</p>
+  <p>After College: <br>&nbsp;&nbsp;&nbsp;I aim to either enter an apprenticeship in the software development industry or to secure a place on a computing science university course.</p>
 </div>
 
 
