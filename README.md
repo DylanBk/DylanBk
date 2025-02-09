@@ -1,25 +1,21 @@
-# 📝 About Me:
-<p>
-  My name's Dylan and I'm a college student. I'm from the UK and aim to become a Full-Stack Developer.
-</p>
+# Hi there! 👋
+My name's Dylan and I'm a college student. I'm from the UK and aim to become a Full Stack Developer 🚀
 
 ## ☁️ Future Goals:
-<div>
-  <ul>
-    <li>Become confident in Semantic UI</li>
-    <li>Become confident in React</li>
-    <li>Become confident in Express.js</li>
-    <li>Become confident in Pandas</li>
-  </ul>
-  <p>After College: <br>&nbsp;&nbsp;&nbsp;I aim to either enter an apprenticeship in the software development industry or to secure a place on a computing science university course.</p>
-</div>
+Become confident in Semantic UI
+Become confident in React
+Become confident in Express.js
+Become confident in Pandas
+
+## 🎓 After College:
+I hope to enter an apprenticeship in the software development industry or to secure a place on a computing science university course.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-bullock-726534293) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dylanbullocksoftwaredev)
 
-# 💻 Tech Stack:
+## 💻 Technologies:
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flask-blue?style=flat-square&logo=flask&logoColor=white)
@@ -38,7 +34,7 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
  
  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DylanBk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DylanBk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanBk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
