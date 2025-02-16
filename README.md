@@ -18,7 +18,7 @@ I plan to enter an apprenticeship in the software development industry or to sec
 ## 💻 Technologies:
 ![Static Badge](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Static Badge](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Static Badge](https://img.shields.io/badge/sqlalchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
