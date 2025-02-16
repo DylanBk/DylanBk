@@ -2,13 +2,13 @@
 My name's Dylan and I'm a college student. I'm from the UK and aim to become a Full Stack Developer 🚀
 
 ## ☁️ Future Goals:
-Become confident in Semantic UI
-Become confident in React
-Become confident in Express.js
+Become confident in React \
+Become confident in Next \
+Become confident in Express \
 Become confident in Pandas
 
 ## 🎓 After College:
-I hope to enter an apprenticeship in the software development industry or to secure a place on a computing science university course.
+I plan to enter an apprenticeship in the software development industry or to secure a place on a computing science university course.
 
 
 ## 🌐 Socials:
@@ -35,8 +35,8 @@ I hope to enter an apprenticeship in the software development industry or to sec
  
  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DylanBk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DylanBk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DylanBk&theme=dark&hide_border=false&include_all_commits=true&count_private=false) \
+![](https://github-readme-streak-stats.herokuapp.com/?user=DylanBk&theme=dark&hide_border=false) \
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanBk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
