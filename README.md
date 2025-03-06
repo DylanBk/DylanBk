@@ -1,14 +1,15 @@
 # Hi there! 👋
-My name's Dylan and I'm a college student. I'm from the UK and aim to become a Full Stack Developer 🚀
+My name's Dylan \
+College Student | Software Developer  🚀
+Based in the UK
 
 ## ☁️ Future Goals:
-Become confident in React \
-Become confident in Next \
-Become confident in Express \
-Become confident in Pandas
+Learn Pandas \
+Learn Next \
+Learn Express
 
 ## 🎓 After College:
-I plan to enter an apprenticeship in the software development industry or to secure a place on a computing science university course.
+I plan to enter an apprenticeship in the software development industry or to secure a place on a computing science university course. In the long term, I hope to enter web development or data engineering but I am open to other pathways.
 
 
 ## 🌐 Socials:
