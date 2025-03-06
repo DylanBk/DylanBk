@@ -1,6 +1,6 @@
 # Hi there! 👋
 My name's Dylan \
-College Student | Software Developer  🚀
+College Student | Software Developer  🚀 \
 Based in the UK
 
 ## ☁️ Future Goals:
