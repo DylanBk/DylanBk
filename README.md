@@ -40,6 +40,7 @@ I plan to enter an apprenticeship in the software development industry or to sec
  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DylanBk&theme=dark&hide_border=false&include_all_commits=true&count_private=false) \
+![](https://github-readme-streak-stats.herokuapp.com/?user=DylanBk&theme=dark&hide_border=false) \
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanBk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
