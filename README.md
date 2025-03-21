@@ -13,8 +13,9 @@ I plan to enter an apprenticeship in the software development industry or to sec
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-bullock-726534293) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dylanbullocksoftwaredev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=flat-square)](https://dylanbullock.co.uk) \
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-bullock-726534293) \
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dylanbullocksoftwaredev)
 
 ## 💻 Technologies:
 ![Static Badge](https://img.shields.io/badge/-SQL-005F75?style=flat-square&logo=SQL&logoColor=4479A1)
