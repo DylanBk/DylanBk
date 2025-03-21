@@ -17,7 +17,7 @@ I plan to enter an apprenticeship in the software development industry or to sec
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dylanbullocksoftwaredev)
 
 ## 💻 Technologies:
-![Static Badge](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Static Badge](https://img.shields.io/badge/-SQL-005F75?style=flat-square&logo=SQL&logoColor=4479A1)
 ![Static Badge](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
