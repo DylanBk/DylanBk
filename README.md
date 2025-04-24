@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name's Dylan and I'm a 17 year old college student \
+My name's Dylan and I'm a 18 year old college student \
 College Student | Web Developer | Software Developer  🚀 \
 Based in the UK
 
