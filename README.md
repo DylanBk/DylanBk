@@ -5,8 +5,8 @@ Based in the UK
 
 ## ☁️ Future Goals:
 Learn Three.js \
-Learn 3D Modelling
-Learn C/C#/C++ \
+Learn 3D Modelling \
+Learn C/C#/C++
 
 ## 🎓 After College:
 I plan to enter an apprenticeship in the software development industry or to secure a place on a computing science university course. In the long term, I hope to enter web development or data engineering but I am open to other pathways.
