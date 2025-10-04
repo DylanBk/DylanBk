@@ -12,10 +12,9 @@ Learn C/C#/C++
 I plan to enter an apprenticeship in the software development industry or to secure a place on a computing science university course. In the long term, I hope to enter web development or data engineering but I am open to other pathways.
 
 
-## 🌐 Socials:
+## 🌐 Connections:
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=flat-square)](https://dylanbullock.co.uk) \
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-bullock-726534293) \
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dylanbullocksoftwaredev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-bullock-726534293)
 
 ## 💻 Technologies:
 ![Static Badge](https://img.shields.io/badge/-SQL-005F75?style=flat-square&logo=SQL&logoColor=4479A1)
