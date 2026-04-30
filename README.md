@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name's Dylan and I'm an 18-year-old Software Developer based in the UK.
+My name's Dylan and I'm an 19-year-old Software Developer based in the UK.
 
 ## 🎓 Learning Goals:
 Learn Three.js \
